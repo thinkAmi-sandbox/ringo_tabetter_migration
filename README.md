@@ -1,0 +1,2 @@
+# ringo_tabetter_migration
+ringo-tabetterからdj_ringo_tabetterへHeroku Postgresのデータを移行するサンプル
